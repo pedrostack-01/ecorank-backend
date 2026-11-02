@@ -154,5 +154,4 @@ Web Service > Language **Docker** > Dockerfile Path `./Dockerfile` > variáveis 
 ## Documentação
 `docs/EcoRank_Documentacao.pdf` (e o `.docx` editável): capa, objetivo, funcionalidades, tabela de endpoints, exemplos, prints das telas, MER, diagrama de classes e procedimentos de execução. Os diagramas (`docs/*.png`) foram gerados a partir do código e do `script_banco.sql`.
 
-## Testes
-O roteiro com os testes recomendados antes de publicar (cadastro, login, token expirado, permissões, upload, ranking, desafios, CORS…) está em `docs/ROTEIRO_TESTES.md`.
+
