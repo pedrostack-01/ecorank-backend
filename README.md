@@ -10,6 +10,7 @@
 | Pedro Henrique Cardoso Cavalcante de Souza | RM570464 |
 
 ---
+Link De Base, Use ele: https://github.com/Pedrin740/Back-end-Challenge
 
 # EcoRank – API Restful (Spring Boot)
 
@@ -51,7 +52,7 @@ $env:DB_URL="jdbc:oracle:thin:@HOST:1521:SID"; $env:DB_USERNAME="usuario"; $env:
    mvn clean package -DskipTests
    java -jar target/ecorank-0.0.1-SNAPSHOT.jar
    ```
-4. Teste: `http://localhost:8080/api/v1/ranking`
+4. Teste: `http://localhost:8080/api/v1/ranking` , Link de Base: https://github.com/Pedrin740/Back-end-Challenge
 
 ## Endpoints
 `/api/v1/usuarios`, `/api/v1/acoes`, `/api/v1/missoes`, `/api/v1/conquistas`, `/api/v1/niveis` (GET, GET /{id}, POST, PUT /{id}, DELETE /{id};
